@@ -1,0 +1,1 @@
+Mapas '.fits' obtidos em http://pla.esac.esa.int/pla/#maps
